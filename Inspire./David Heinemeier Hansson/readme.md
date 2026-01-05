@@ -1,0 +1,1 @@
+- [Why DHH switched to Linux (from macOS) | Lex Fridman Podcast Clips](https://youtu.be/S_RqZG6YR5M)
