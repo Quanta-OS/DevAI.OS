@@ -1,0 +1,1 @@
+- [ThePrimeagen's programming setup and IDE | Lex Fridman Podcast Clips](https://youtu.be/HjHKPDutG5o)
