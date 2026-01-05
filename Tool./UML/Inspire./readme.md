@@ -1,2 +1,3 @@
 - [How To Create a UML Diagram Using DIA Diagram Editor](https://youtu.be/f-IeQbc2o5k)
+- [Statik's Geek Notes - UML Diagrams in Dia - Part 1 - Class Diagrams](https://youtu.be/EAor90AKxUw)
 - [Statik's Geek Notes - UML Diagrams in Dia Part 2 - Use Case Diagrams and Sequence Diagrams](https://youtu.be/mGjDLyOptJE)
